@@ -1,0 +1,71 @@
+.fundosm{
+    background-image: url(https://images2.alphacoders.com/101/thumb-1920-1012090.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.fundosm{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+/*.aa{
+    font-family: roboto;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    color: rgba(249, 91, 249, 0.744);
+}*/
+
+.aa{
+    border: solid 2px blue;
+    width: 500px;
+    height: 300px;
+    background-color: blueviolet;
+    margin-top: 177px;
+}
+
+p{
+    color: aliceblue;
+}
+
+.fundofo{
+    background-image: url(https://images2.alphacoders.com/101/thumb-1920-1012090.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.fundofo{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.bb{
+    font-family: roboto;
+    font-size: 50px;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgba(249, 91, 249, 0.744);
+}
+
+.fundoco{
+    background-image: url(https://images2.alphacoders.com/101/thumb-1920-1012090.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.fundoco{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.cc{
+    font-family: roboto;
+    font-size: 50px;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgba(249, 91, 249, 0.744);
+}
