@@ -1,0 +1,82 @@
+.fundo1{
+    height: 50px;
+    width: 100%;
+    border: solid 2px;
+    border-color: rgb(236, 115, 236);
+}
+
+nav {
+    font-size: 25px;
+    font-family: roboto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+body{
+    background-image: url(https://images2.alphacoders.com/101/thumb-1920-1012090.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    border: solid 2px;
+    border-color: rgb(236, 115, 236);
+    margin-top: 50px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0309/9869/products/Large-Purple-Background_grande.jpg?v=1571438714");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.perfil{
+    height: 300px;
+    width: 200px;
+    margin-left: 655px;
+    margin-top: 127px;
+    border-radius: 70px;
+}
+
+h1{
+    font-family: roboto;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: rgba(249, 91, 249, 0.744);
+}
+
+.a1:hover{
+    background-color: rgb(92, 11, 163);
+    
+}
+
+.a1{
+    text-decoration: none;
+    color: rgba(249, 91, 249, 0.744);
+    border: solid 2px blueviolet;
+    border-radius: 10px;
+}
+
+.a2:hover{
+    background-color: rgb(92, 11, 163);
+}
+
+.a2{
+    text-decoration: none;
+    color: rgba(249, 91, 249, 0.744);
+    border: solid 2px blueviolet;
+    border-radius: 10px;
+}
+
+.a3:hover{
+    background-color: rgb(92, 11, 163);
+}
+
+.a3{
+    text-decoration: none;
+    color: rgba(249, 91, 249, 0.744);
+    border: solid 2px blueviolet;
+    border-radius: 10px;
+}
